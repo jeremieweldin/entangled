@@ -1,0 +1,7 @@
+require 'redis'
+require 'rails/all'
+require 'entangled/version'
+require 'entangled/helpers'
+require 'entangled/model'
+require 'entangled/controller'
+require 'entangled/routes'
